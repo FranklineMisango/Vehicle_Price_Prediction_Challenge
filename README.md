@@ -1,4 +1,4 @@
-# Vehicle price prediction challege - VGG16 & CART + XGBoost
+# Vehicle price prediction challege - ResNet & CART + XGBoost
 
 ## Introduction
 
@@ -9,15 +9,15 @@ This project encompasses combination of a Deep Learning model and a more accurat
 
 ## Datasets
 
-* VGG16 Training : Dataset Source [Stanford Car Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset).
+* ResNet Training : Dataset Source [Stanford Car Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset).
 
 * CART  + XGBoost : Dataset Source [Car Prices Dataset](https://www.kaggle.com/datasets/sidharth178/car-prices-dataset)
 
 ## Architecture
 
-### VGG16
-This model uses the VGG16 PTM for Deep Learning which has an architecture as below 
-![](./images/vgg16.png)
+### ReNet
+This model uses the ResNet PTM for Deep Learning which has an architecture as below 
+![](./images/resnet.png)
 
 ### CART
 The price prediction model uses Various CART models with the most accurate picked for final usage
