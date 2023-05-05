@@ -15,7 +15,7 @@ This project encompasses combination of a Deep Learning model and a more accurat
 
 ## Architecture
 
-### ReNet
+### ResNet
 This model uses the ResNet PTM for Deep Learning which has an architecture as below 
 ![](./images/resnet.png)
 
