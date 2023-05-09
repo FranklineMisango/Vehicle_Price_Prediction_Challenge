@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![](./images/cover.jpg)
+![](images/cover.jpg)
 
 This project encompasses combination of a Deep Learning model and a more accurate CART + XGBoost Model to predict a vehicle car price after a user attempts to upload it 
 
@@ -17,11 +17,11 @@ This project encompasses combination of a Deep Learning model and a more accurat
 
 ### ResNet
 This model uses the ResNet PTM for Deep Learning which has an architecture as below 
-![](./images/resnet.png)
+![](images/resnet.png)
 
 ### CART
 The price prediction model uses Various CART models with the most accurate picked for final usage
-![](./images/forests.png)
+![](images/forests.png)
 
 ## Accuracy & Loss evaluation 
 
