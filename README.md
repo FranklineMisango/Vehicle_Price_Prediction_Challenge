@@ -1,10 +1,10 @@
-# Vehicle Prediction challege - ResNet CNN & CART + XGBoost
+# Vehicle Prediction challenge - ResNet CNN & CART + XGBoost
 
 ## Introduction
 
 ![](images/cover.jpg)
 
-This project encompasses combination of a Deep Learning model that attemps to identify the class, Year and make of a car etc. It also includes the most more accurate CART + XGBoost Model that  predicts the vehicle car price after a user uploads a picture of one !
+This project combines a Deep Learning model that attemps to identify the class, Year and make of a car etc. It also includes the most more accurate CART + XGBoost Model that  predicts the vehicle car price after a user uploads a picture of one !
 
 
 ## Datasets
