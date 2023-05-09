@@ -1,82 +1,82 @@
 [
     {
-        "label": "Chrysler Crossfire Convertible 2008",
-        "prob": "0.02246"
+        "label": "Audi A5 Coupe 2012",
+        "prob": "0.9895"
     },
     {
-        "label": "Maybach Landaulet Convertible 2012",
-        "prob": "0.1304"
+        "label": "Audi S6 Sedan 2011",
+        "prob": "0.9985"
     },
     {
-        "label": "Maybach Landaulet Convertible 2012",
-        "prob": "0.6475"
+        "label": "Land Rover Range Rover SUV 2012",
+        "prob": "0.9996"
     },
     {
-        "label": "Ferrari 458 Italia Convertible 2012",
-        "prob": "0.02554"
+        "label": "Hyundai Accent Sedan 2012",
+        "prob": "0.8146"
     },
     {
-        "label": "Maybach Landaulet Convertible 2012",
-        "prob": "0.1476"
+        "label": "Bentley Continental GT Coupe 2007",
+        "prob": "0.9993"
     },
     {
-        "label": "Maybach Landaulet Convertible 2012",
-        "prob": "0.02484"
+        "label": "BMW M6 Convertible 2010",
+        "prob": "0.9999"
+    },
+    {
+        "label": "Nissan 240SX Coupe 1998",
+        "prob": "0.9998"
+    },
+    {
+        "label": "Ferrari California Convertible 2012",
+        "prob": "0.9309"
+    },
+    {
+        "label": "Aston Martin Virage Coupe 2012",
+        "prob": "0.9985"
+    },
+    {
+        "label": "Dodge Charger SRT-8 2009",
+        "prob": "0.9613"
+    },
+    {
+        "label": "Jeep Wrangler SUV 2012",
+        "prob": "0.9991"
+    },
+    {
+        "label": "Ram C/V Cargo Van Minivan 2012",
+        "prob": "0.9863"
+    },
+    {
+        "label": "Hyundai Genesis Sedan 2012",
+        "prob": "0.9956"
+    },
+    {
+        "label": "Nissan Leaf Hatchback 2012",
+        "prob": "1.0000"
+    },
+    {
+        "label": "Chevrolet Silverado 1500 Classic Extended Cab 2007",
+        "prob": "0.9982"
+    },
+    {
+        "label": "Audi S6 Sedan 2011",
+        "prob": "0.9999"
+    },
+    {
+        "label": "Acura TL Type-S 2008",
+        "prob": "0.7841"
+    },
+    {
+        "label": "Isuzu Ascender SUV 2008",
+        "prob": "0.9999"
+    },
+    {
+        "label": "Jeep Wrangler SUV 2012",
+        "prob": "0.9986"
     },
     {
         "label": "Nissan Juke Hatchback 2012",
-        "prob": "0.01375"
-    },
-    {
-        "label": "Nissan Juke Hatchback 2012",
-        "prob": "0.01794"
-    },
-    {
-        "label": "Chrysler Crossfire Convertible 2008",
-        "prob": "0.01525"
-    },
-    {
-        "label": "Chrysler Crossfire Convertible 2008",
-        "prob": "0.0169"
-    },
-    {
-        "label": "Chrysler Crossfire Convertible 2008",
-        "prob": "0.01305"
-    },
-    {
-        "label": "Maybach Landaulet Convertible 2012",
-        "prob": "0.7584"
-    },
-    {
-        "label": "Maybach Landaulet Convertible 2012",
-        "prob": "0.01614"
-    },
-    {
-        "label": "Chrysler Crossfire Convertible 2008",
-        "prob": "0.01882"
-    },
-    {
-        "label": "Chrysler Crossfire Convertible 2008",
-        "prob": "0.01845"
-    },
-    {
-        "label": "Nissan Juke Hatchback 2012",
-        "prob": "0.01604"
-    },
-    {
-        "label": "Chrysler Crossfire Convertible 2008",
-        "prob": "0.01525"
-    },
-    {
-        "label": "Chrysler Crossfire Convertible 2008",
-        "prob": "0.02071"
-    },
-    {
-        "label": "Maybach Landaulet Convertible 2012",
-        "prob": "0.08434"
-    },
-    {
-        "label": "Chevrolet Malibu Sedan 2007",
-        "prob": "0.02564"
+        "prob": "0.9956"
     }
 ]

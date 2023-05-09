@@ -25,8 +25,9 @@ The price prediction model uses Various CART models with the most accurate picke
 
 ## Accuracy & Loss evaluation 
 
-![FineTuning](images/Accuracy.png)
-![FineTuning](images/loss.png)
+![FineTuning](images/Accuracy&loss.png)
+![FineTuning](images/confusion_matrix_without_normalization.png)
+![FineTuning](images/normalized_confusion_matrix.png)
 
 
 ## Installation
