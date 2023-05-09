@@ -31,10 +31,12 @@ The price prediction model uses Various CART models with the most accurate picke
 
 
 ## Installation
-* Unzip the `Car_detection.zip`
+* Clone this Repo
+* Download my saved latest .h5d5 model [here](https://drive.google.com/file/d/11ZnJvCD9vJvupQx2pVUKtob1Plkl9h9N/view?usp=sharing)
+* Create a New folder , "models" in the cloned repo and place in it the downloaded file
 * Install requirements.txt file with the command `pip install -r requirements.txt`
 * Run `pipenv shell`
 * Run `streamlit run app.py`
 * The Model's website should open in a new Browser window 
-![Mask image](images/)
+![Mask image](images/image_1.png)
 
