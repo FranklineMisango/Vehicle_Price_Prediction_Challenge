@@ -20,7 +20,7 @@ This model uses the ResNet PTM for Deep Learning which has an architecture as be
 ![](images/resnet.png)
 
 ### CART
-The price prediction model uses Various CART models with the most accurate picked for final usage
+The price prediction model uses Various CART models with the most accurate picked for final Price prediction of the car
 ![](images/forests.png)
 
 ## Accuracy & Loss evaluation 
@@ -31,6 +31,7 @@ The price prediction model uses Various CART models with the most accurate picke
 
 
 ## Installation
+![FineTuning](images/construction.jpg)
 * Clone this Repo
 * Download my saved latest .h5d5 model [here](https://drive.google.com/file/d/11ZnJvCD9vJvupQx2pVUKtob1Plkl9h9N/view?usp=sharing)
 * Create a New folder , "models" in the cloned repo and place in it the downloaded file
